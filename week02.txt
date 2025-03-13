@@ -6,3 +6,5 @@ init
 add <파일명>
 commit -m "커밋메세지"
 log
+checkout <해시코드 전체 또는 해시코드 7자리>
+checkout -

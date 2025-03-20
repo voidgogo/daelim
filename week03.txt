@@ -3,3 +3,8 @@
 IDE(파이참) git bash 터미널 연결
 Settings -> Tools -> Terminal -> Shell path
 bash 선택
+
+git 명령어
+remote -v
+
+.gitignore 이해 

@@ -1,6 +1,9 @@
 4주차
 1교시
 git 명령어
+log --oneline
+
+linux 명령어
 
 
 2교시

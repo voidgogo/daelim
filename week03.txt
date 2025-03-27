@@ -12,7 +12,8 @@ remote -v
 2교시
 소수 판정 프로그램 컨버전
 
-git 명령어
+linux 명령어
+cat 파일명
 
 3교시
 git 명령어

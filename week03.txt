@@ -14,5 +14,6 @@ remote -v
 
 3교시
 git 명령어
-clone
+clone "가져올 원격리포지토리 주소"
+clone "가져올 원격리포지토리 주소" .
 remote remove origin

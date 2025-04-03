@@ -1,5 +1,15 @@
 1교시
-clone pull 차이점
+clone pull 차이점 Q&A
 
-git fork
+fork
 
+
+2교시
+pull request
+
+feedback comment
+
+merge
+
+
+3교시

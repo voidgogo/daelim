@@ -1,2 +1,7 @@
 1교시
-asdadsadas
+
+clone pull 차이점
+
+git fork
+
+
